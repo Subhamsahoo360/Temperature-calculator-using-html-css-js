@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background: #3B3FB1
+}
+.container{
+  display: flex;
+  background: whitesmoke;
+    line-height: 40px;
+  padding: 15px;
+  width: 80vw;
+  animation-name: none;
+  animation-duration: 2000ms;
+}
+
+.celconverter{
+  
+}
+.farconverter{
+  margin-left: 20px;
+}
+input{
+  
+}
+h2{
+  position: absolute;
+  top: 12vh;
+  color: white;
+  font-size: 30px;
+}
+  body {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
